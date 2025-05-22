@@ -68,5 +68,5 @@ if __name__ == "__main__":
 
 ## License
 MIT License.\
-Copyright (c) 2025 Archip Storozhev.\
+Copyright (c) 2025 stornov.\
 For details, see [LICENSE](LICENSE)
